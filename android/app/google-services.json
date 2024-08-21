@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41550945400",
+    "project_id": "reca-ea63c",
+    "storage_bucket": "reca-ea63c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41550945400:android:3e3f9251c7deb8e9d3a18d",
+        "android_client_info": {
+          "package_name": "com.example.reca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHUTvfz7CweOZ7SuDatMFuZGgt4fvJPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
